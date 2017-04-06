@@ -1,14 +1,14 @@
 [
     {
         "id": 0,
-        "service_rh": "8015",
-        "id_nat_frt": "F08846F",
-        "cle_frt_mini": "26COMMUN"
+        "servicerh": "8015",
+        "idnatfrt": "F08846F",
+        "clefrtmini": "26COMMUN"
     },
     {
         "id": 1,
-        "service_rh": "8025",
-        "id_nat_frt": "F0d1846F",
-        "cle_frt_mini": "26dCOMMUN"
+        "servicerh": "8025",
+        "idnatfrt": "F0d1846F",
+        "clefrtmini": "26dCOMMUN"
     }
 [
